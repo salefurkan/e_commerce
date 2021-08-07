@@ -50,13 +50,13 @@
   <summary>Click to expand!</summary>
 
 - Items
-<img src="https://github.com/salefurkan/e_commerce/blob/main/app_firebase_images/4.PNG?raw=true" alt="drawing" width="200"/>
+<img src="https://github.com/salefurkan/e_commerce/blob/main/app_firebase_images/4.PNG?raw=true" alt="drawing" width="500"/>
 
 - Users
-<img src="https://github.com/salefurkan/e_commerce/blob/main/app_firebase_images/5.PNG?raw=true" alt="drawing" width="200"/>
+<img src="https://github.com/salefurkan/e_commerce/blob/main/app_firebase_images/5.PNG?raw=true" alt="drawing" width="500"/>
 
 - User Address
-<img src="https://github.com/salefurkan/e_commerce/blob/main/app_firebase_images/6.PNG?raw=true" alt="drawing" width="200"/>
+<img src="https://github.com/salefurkan/e_commerce/blob/main/app_firebase_images/6.PNG?raw=true" alt="drawing" width="500"/>
 
 
   </details>
