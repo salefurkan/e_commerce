@@ -32,7 +32,7 @@
 
 - My Addresses & Adding Addresses
 
-<img src="https://github.com/salefurkan/e_commerce/blob/main/app_ui_images/Screenshot_1621321288.png?raw=true" alt="drawing" width="200"/> <img src="https://github.com/salefurkan/e_commerce/blob/main/app_ui_images/Screenshot_1621321331.png?raw=true" alt="drawing" width="200"/> <img src="  https://github.com/salefurkan/e_commerce/blob/main/app_ui_images/Screenshot_1621321343.png?raw=true" alt="drawing" width="200"/>
+<img src="https://github.com/salefurkan/e_commerce/blob/main/app_ui_images/Screenshot_1621321288.png?raw=true" alt="drawing" width="200"/> <img src="https://github.com/salefurkan/e_commerce/blob/main/app_ui_images/Screenshot_1621321331.png?raw=true" alt="drawing" width="200"/> <img src="https://github.com/salefurkan/e_commerce/blob/main/app_ui_images/Screenshot_1621321343.png?raw=true" alt="drawing" width="200"/>
   
 - My Orders & Order Status
   
