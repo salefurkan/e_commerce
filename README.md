@@ -1,16 +1,67 @@
-# e_shop_tez
+# E-Shopping 
 
-A new Flutter project.
+- Developed with Flutter & Dart
+- Back-end as Firebase
 
-## Getting Started
+## Features
+- Adding Product to Cart
+- Adding Favorite Products
+- Ordering a Product
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+[Flutter](https://flutter.dev/docs/cookbook)
+[Firebase](https://firebase.google.com)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## App Screens
+  - Login & Register
+
+  <img src="https://github.com/salefurkan/e_commerce/blob/main/app_ui_images/Screenshot_1621321203.png?raw=true" alt="drawing" width="200"/> <img src="https://github.com/salefurkan/e_commerce/blob/main/app_ui_images/Screenshot_1621321225.png?raw=true" alt="drawing" width="200"/>
+
+- Main Screen
+
+<img src="https://github.com/salefurkan/e_commerce/blob/main/app_ui_images/Screenshot_1621321252.png?raw=true" alt="drawing" width="200"/> 
+
+- Shopping Cart & Favourites
+
+<img src="https://github.com/salefurkan/e_commerce/blob/main/app_ui_images/Screenshot_1621321285.png?raw=true" alt="drawing" width="200"/> <img src="https://github.com/salefurkan/e_commerce/blob/main/app_ui_images/Screenshot_1621321262.png" alt="drawing" width="200"/>
+
+- My Addresses & Adding Addresses
+
+<img src="https://github.com/salefurkan/e_commerce/blob/main/app_ui_images/Screenshot_1621321288.png?raw=true" alt="drawing" width="200"/> <img src="https://github.com/salefurkan/e_commerce/blob/main/app_ui_images/Screenshot_1621321331.png?raw=true" alt="drawing" width="200"/> <img src="  https://github.com/salefurkan/e_commerce/blob/main/app_ui_images/Screenshot_1621321343.png?raw=true" alt="drawing" width="200"/>
+  
+- My Orders & Order Status
+  
+<img src="https://github.com/salefurkan/e_commerce/blob/main/app_ui_images/Screenshot_1621321358.png?raw=true" alt="drawing" width="200"/> 
+<img src="https://github.com/salefurkan/e_commerce/blob/main/app_ui_images/Screenshot_1621321360.png?raw=true" alt="drawing" width="200"/> 
+
+- Bottom Action Menu
+
+<img src="https://github.com/salefurkan/e_commerce/blob/main/app_ui_images/Screenshot_1621321505.png?raw=true" alt="drawing" width="200"/> <img src="https://github.com/salefurkan/e_commerce/blob/main/app_ui_images/Screenshot_1621321487.png?raw=true" alt="drawing" width="200"/>
+
+</details>
+
+## Firebase Firestore
+<details>
+  <summary>Click to expand!</summary>
+
+- Items
+<img src="https://github.com/salefurkan/e_commerce/blob/main/app_firebase_images/4.PNG?raw=true" alt="drawing" width="200"/>
+
+- Users
+<img src="https://github.com/salefurkan/e_commerce/blob/main/app_firebase_images/5.PNG?raw=true" alt="drawing" width="200"/>
+
+- User Address
+<img src="https://github.com/salefurkan/e_commerce/blob/main/app_firebase_images/6.PNG?raw=true" alt="drawing" width="200"/>
+
+
+  </details>
+
+
+### Thank You
+
+  > _The application is designed in Turkish but can be easily modified._
